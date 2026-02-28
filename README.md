@@ -24,8 +24,13 @@ Designed for:
 
 ## 📸 Project Screenshots
 
+<<<<<<< HEAD
 ### 🔹 Overall Hackpad (real photo when parts arrive)
 ![Overall Hackpad](images/hackpad_case.png)
+=======
+### 🔹 Overall Hackpad
+![Overall Hackpad](images/hackpad_overall.png)
+>>>>>>> 58ae60fad9a75639c57f2f7b5a7c07240191be1e
 
 
 ---
@@ -40,11 +45,14 @@ Designed for:
 
 ---
 
+<<<<<<< HEAD
 ### 🔹 PCB 3D View
 ![PCB](images/hackpad_pcb_3d.png)
 
 ---
 
+=======
+>>>>>>> 58ae60fad9a75639c57f2f7b5a7c07240191be1e
 ### 🔹 Case Design & Assembly
 ![Case](images/hackpad_case.png)
 
