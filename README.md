@@ -24,7 +24,7 @@ Designed for:
 
 ## 📸 Project Screenshots
 
-### 🔹 Overall Hackpad (real photo when parts arrive)
+### 🔹 Overall Hackpad (real photo soon)
 ![Overall Hackpad](Images/hackpad_case.png)
 
 
