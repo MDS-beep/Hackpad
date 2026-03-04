@@ -88,7 +88,7 @@ All hardware, PCB, and enclosure designs were created from scratch.
 | 16 | MX Style Switches | Mechanical key switches |
 | 16 | SK6812 MINI-E | Addressable RGB LEDs |
 | 16 | 1N4148 | Signal diodes | 
-| 1 | Custom PCB | Designed in KiCad/EasyEDA |
+| 1 | Custom PCB | Designed in EasyEDA |
 | 1 | 3D Printed Case | Custom enclosure | 
 | 16 | Keycaps | MX compatible | 
 | 4 | M3 Screws | Case mounting |
